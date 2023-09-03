@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rochamarc" alt="rochamarc" /></a> </p>
 
-- 🌱 I’m currently learning **Django and Rails**
+- 🌱 I’m currently learning **Database & sql**
 
 - 📫 How to reach me **rochadcmarcos@gmail.com**
 
