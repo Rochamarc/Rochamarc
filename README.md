@@ -1,15 +1,14 @@
 <h1 align="center">Hi 👋, I'm Marcos Rocha</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
-
+<h3 align="center">A passionate math teacher and backend developer from Brazil</h3>
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rochamarc&label=Profile%20views&color=0e75b6&style=flat" alt="rochamarc" /> </p>
+-->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rochamarc" alt="rochamarc" /></a> </p>
 
 - 🌱 I’m currently learning **Database & sql**
 
 - 📫 How to reach me **rochadcmarcos@gmail.com**
-
-- ⚡ Fun fact **i never watch Star Wars**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
